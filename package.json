@@ -6,7 +6,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kory Nunn",
   "license": "ISC",
-  "description": ""
+  "description": "Emit native DOM events from within your components",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KoryNunn/mithril-emittable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/mithril-emittable/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/mithril-emittable#readme"
 }
